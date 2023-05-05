@@ -1,0 +1,17 @@
+body, html{
+    height: 100%;
+    margin: 0;
+}
+.fundo{
+    background-image: url("fundo1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#player1{
+    background-color: aqua;
+    box-sizing: border-box;
+    padding: 200px 20px 30px 20px;
+    margin: 0px;
+}
